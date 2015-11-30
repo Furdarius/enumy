@@ -1,2 +1,4 @@
-# enumy
-Tiny javascript library for enum object creation
+# Enumy
+Tiny javascript library that introduces basic Enum functionality
+
+
