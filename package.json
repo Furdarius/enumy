@@ -1,6 +1,6 @@
 {
   "author": "furdarius",
-  "name": "enumy",
+  "name": "@furdarius/enumy",
   "version": "1.0.4",
   "private": false,
   "main": "index.js",
