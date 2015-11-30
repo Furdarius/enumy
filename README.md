@@ -1,11 +1,15 @@
 # Enumy
 Tiny javascript library that introduces basic Enum functionality
 
+# Installation
+
+    npm install @furdarius/enumy --save
+    
 # Usage
 
 ````js
 // Include library
-var enumy = require('enumy');
+var enumy = require('@furdarius/enumy');
 
 // Create enum object
 var types = enumy(['Integer', 'Boolean', 'String', 'Array', 'Html']);
